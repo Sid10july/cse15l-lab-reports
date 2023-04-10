@@ -17,6 +17,13 @@ Once downloaded VS code should look like this:
 
 ![Image](img2.png)
 
+**Step 3 Part A (For Windows):** If you have a PC then follow these steps: 
+1. Open VS code and then open the terminal using “ctrl” + “`”
+2. Then open the command-line pallet using “ctrl” + “shift” + “P”
+3. Type in “Select Default Profile” in the search bar 
+4. Click the “+” icon on the terminal window 
+
+The new terminal will now be a Git Bash terminal 
 
 
 
