@@ -7,7 +7,7 @@ To log in simply use your UCSD email and your ID number as your password
 
 From here click the CSE15 option to change your course-specific password
 
-![Image](Image1.png)
+![Image](image1.png)
 
 
 
