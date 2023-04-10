@@ -36,5 +36,15 @@ Replace the xx with the two letters at the end of your course-specific account, 
 
 Since this is most likely the first time you have tried to connect to this server, the terminal will present you with the following message: 
 
+ssh cs15lwi23fb@ieng6.ucsd.edu The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. Are you sure you want to continue connecting (yes/no/[fingerprint])?
+
+Type “yes” to continue 
+
+After writing yes, it will give you a prompt to type in your password. Here you should type in the password you set as your course-specific password. (Note: While typing, no characters or * will appear on the screen, however, you are still typing so make sure you type it correctly.) 
+
+Once you have typed in the password correctly and pressed enter the message below should appear, establishing your connection to the server. 
+
+![Image](img3.png)
+
 
 
