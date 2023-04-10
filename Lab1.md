@@ -1,5 +1,6 @@
 # Lab Report 1:Remote Access and FileSystem
 
+
 **Step 1:** The first step of this lab after meeting your labmates was to change your course-specific account password for CSE15 at:
 [https://sdacs.ucsd.edu/~icc/index.php]([http://a.com](https://sdacs.ucsd.edu/~icc/index.php.))
 
@@ -11,11 +12,13 @@ From here click the CSE15 option to change your course-specific password.
 
 After this simply press the Global Password change tool and follow the instructions to change your password. 
 
+
 **Step 2:** Next, Install VS code on your computer if it is not already installed. To do this go to this website: [https://code.visualstudio.com/](https://code.visualstudio.com/). and simply click the download button. (Note: remember to change the version depending on your OS)
 
 Once downloaded VS code should look like this: 
 
 ![Image](img2.png)
+
 
 **Step 3 Part A (For Windows):** If you have a PC then follow these steps: 
 1. Open VS code and then open the terminal using “ctrl” + “`”
@@ -49,6 +52,7 @@ Once you have typed in the password correctly and pressed enter the message belo
 If the above message does not appear and instead a new “password:” appears on the next command line, you have typed in the password wrong. You have 5 attempts before you must restart step 3 B from ssh… 
 
 If instead, you get an error message that the connection could not be established, there is probably an error on the server’s end and you will just have to wait it out and try again later. 
+
 
 **Step 4:** Now you can try commands:
 For example:
