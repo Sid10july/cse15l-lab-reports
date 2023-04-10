@@ -13,7 +13,8 @@ After this simply press the Global Password change tool and follow the instructi
 
 **Step 2:** Next, Install VS code on your computer if it is not already installed. To do this go to this website: [https://code.visualstudio.com/](https://code.visualstudio.com/). and simply click the download button. (Note: remember to change the version depending on your OS)
 
-Once downloaded VS code should look like this: ![Image](img2.png)
+Once downloaded VS code should look like this: 
+![Image](img2.png)
 
 
 
