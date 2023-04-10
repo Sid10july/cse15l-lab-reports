@@ -46,6 +46,33 @@ Once you have typed in the password correctly and pressed enter the message belo
 
 ![Image](img3.png)
 
+If the above message does not appear and instead a new “password:” appears on the next command line, you have typed in the password wrong. You have 5 attempts before you must restart step 3 B from ssh… 
+
+If instead, you get an error message that the connection could not be established, there is probably an error on the server’s end and you will just have to wait it out and try again later. 
+
+**Step 4:** Now you can try commands:
+For example:
+- cd ~
+- cd
+- ls -lat
+- ls -a
+- ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
+- cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+- cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+
+Bellow is my correct implementation of these commands: 
+  
+![Image](img4.png)
+  
+Note that while implementing, /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group member’s username, my result was permission denied. This is because I do not have access to the files on my group member’s account. 
+
+This concludes this Lab and you can log out of the remote server using “Ctrl”+ “D”
+__________________________________________________________________
+
+
+
+
+
 
 
 
