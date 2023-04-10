@@ -9,8 +9,9 @@ From here click the CSE15 option to change your course-specific password
 
 ![Image](image1.png)
 
+After this simply press the Global Password change tool and follow the instructions to change your password 
 
-
+**Step 2:** Next, Install VS code on your computer if it is not already installed. To do this go to this website: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 
 
