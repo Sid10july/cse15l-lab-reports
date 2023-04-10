@@ -10,7 +10,7 @@ From here click the CSE15 option to change your course-specific password.
 
 ![Image](image1.png)
 
-After this simply press the Global Password change tool and follow the instructions to change your password. //
+After this simply press the Global Password change tool and follow the instructions to change your password. 
 
 
 **Step 2:** Next, Install VS code on your computer if it is not already installed. To do this go to this website: [https://code.visualstudio.com/](https://code.visualstudio.com/). and simply click the download button. (Note: remember to change the version depending on your OS)
@@ -71,8 +71,7 @@ Bellow is my correct implementation of these commands:
 Note that while implementing, /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group member’s username, my result was permission denied. This is because I do not have access to the files on my group member’s account. 
 
 This concludes this Lab and you can log out of the remote server using “Ctrl”+ “D”
-__________________________________________________________________
-
+---
 
 
 
