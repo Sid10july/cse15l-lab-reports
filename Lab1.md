@@ -26,6 +26,15 @@ Once downloaded VS code should look like this:
 The new terminal will now be a Git Bash terminal 
 
 
+**Step 3 Part B:** Now to remotely connect to your course-specific account first use: 
+
+$ ssh cs15lwi23xx@ieng6.ucsd.edu
+
+(Remember not to type in/copy the $ as it is already present in the terminal) 
+
+Replace the xx with the two letters at the end of your course-specific account, for example, fb in the image shown in Step 1. 
+
+Since this is most likely the first time you have tried to connect to this server, the terminal will present you with the following message: 
 
 
 
