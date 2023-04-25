@@ -4,8 +4,8 @@
 ![Image](StringServer.png)
 
 
-**This is how it looks when I add two words to the local Server**
+**This is how it looks when I add one word to the local Server**
 
-![Image](StringServer_implementation1.png)
+![Image](StringServer_implementation3.png)
 
 In the above 
