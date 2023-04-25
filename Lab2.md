@@ -124,6 +124,6 @@ The back end of what happens when one word is added to the url using /add-messag
 Deviding the arr.length by 2 fixes the code as it only needs to run on half the array length to swap the end with the beginning. Without this "/2" the swaps are done twice and therefore the resulting array is the same as the original.
 	
 ## Part 3
-  Probably the most shocking thing that I learned from the Labs was that a method can use an interface wihout actually implementing one by creating a new object of the necessary class and then using an interface method inside the origonal. I learned this through the help of my TA and peers while attempting ListTests.java. Additionally, I also learned how to use and interact with my local and school server while understanding NumberServer.java.  	
+  Probably the most shocking thing that I learned from the Labs was that a method can use an interface wihout actually implementing one by creating a new object of the necessary class and then using an interface method inside the original. I learned this through the help of my TA and peers while attempting ListTests.java. Additionally, I also learned how to use and interact with my local and school server while understanding NumberServer.java.  	
 
  
