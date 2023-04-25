@@ -49,7 +49,7 @@ class StringServer {
 ![Image](StringServer_implementation3.png)
 
 The back end of what happens when one word is added to the url using /add-message?s=<stting> can be summed up in a few steps: 
-  1. First, the class StringServer calls the Handeler class (This is the class shown above)
+  1. First, the class StringServer calls the Handeler class 
   2. Then the Handler checks the url for the following query:"/add-message" 
   3. If the url is typed in correctly, i.e. /add-message?s=<stting>, then the string after the "=" is added to the ArrayList toRetain. Else the program will return a 404 error
   4. Finally using the .toString() method, the string array is turned into a string and the brackets "[" & "]" are replaced with empty spaces using the .replace() method  
@@ -123,5 +123,7 @@ The back end of what happens when one word is added to the url using /add-messag
 
 Deviding the arr.length by 2 fixes the code as it only needs to run on half the array length to swap the end with the beginning. Without this "/2" the swaps are done twice and therefore the resulting array is the same as the original.
 	
+## Part 3
+  Probably the most shocking thing that I learned from the Labs was that a method can use an interface wihout actually implementing one by creating a new object of the necessary class and then using an interface method inside the origonal. I learned this through the help of my TA and peers while attempting ListTests.java. Additionally, I also learned how to use and interact with my local and school server while understanding NumberServer.java.  	
 
  
