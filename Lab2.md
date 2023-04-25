@@ -67,7 +67,7 @@ The back end of what happens when one word is added to the url using /add-messag
     
   ## Part 2
     
- **The following is a failure iducing input for the reverseInPlace method:**
+ **The following is a failure iducing input for the reverseInPlace() method:**
    
     
     ```
@@ -79,8 +79,41 @@ The back end of what happens when one word is added to the url using /add-messag
         }
     ```
     
+  **The following input does not induce a failure:**
     
+    ```
+    @Test 
+	public void testReverseInPlace() {
+    int[] input1 = { 3 };
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{ 3 }, input1);
+	}
+    ```
+    
+  **The following is a symptom:**
+    
+  ![Image](TestSymptom.png)
+    
+  **This is the code before debugging:**
   
-  
-  
-  
+    
+    ```
+    static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = temp;
+        }
+     }
+```
+ **This is the code after debugging:**
+    ```
+    static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length/2; i += 1) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = temp;
+    }
+  }
+    ```
+ 
