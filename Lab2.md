@@ -6,6 +6,6 @@
 
 **This is how it looks when I add two words to the local Server**
 
-![Image](StringServer_implementation2.png)
+![Image](StringServer_implementation1.png)
 
 In the above 
