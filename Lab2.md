@@ -79,6 +79,7 @@ The back end of what happens when one word is added to the url using /add-messag
         }
     ```
     
+	
   **The following input does not induce a failure:**
     
     ```
@@ -95,7 +96,7 @@ The back end of what happens when one word is added to the url using /add-messag
   ![Image](TestSymptom.png)
     
   **This is the code before debugging:**
-  
+	
     
     ```
     static void reverseInPlace(int[] arr) {
@@ -105,9 +106,12 @@ The back end of what happens when one word is added to the url using /add-messag
       arr[arr.length - i - 1] = temp;
         }
      }
+	```
+
+				  
+**This is the code after debugging:**
+				  
 ```
- **This is the code after debugging:**
-    ```
     static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length/2; i += 1) {
       int temp = arr[i];
@@ -115,5 +119,9 @@ The back end of what happens when one word is added to the url using /add-messag
       arr[arr.length - i - 1] = temp;
     }
   }
-    ```
+```
+
+Deviding the arr.length by 2 fixes the code as it only needs to run on half the array length to swap the end with the beginning. Without this "/2" the swaps are done twice and therefore the resulting array is the same as the original.
+	
+
  
