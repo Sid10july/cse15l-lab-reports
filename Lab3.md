@@ -58,6 +58,25 @@ This command searches for files modified more than 10 days ago inside the './tec
 
 This command finds all files with the extension '.txt' inside the './technical' directory and copies them to the './backup' directory. There is no output displayed (files are copied to './backup' directory).
 
+**Example 2**
+```
+  $ find ./technical -type f -name "*.log" -exec rm {} \;
+```
+This command finds all files with the extension '.log' inside the './technical' directory and deletes them. Since there are no .log files in "/technical" this command doesn't do anything, however, if I were to use the ".txt" extension every file would be deleated. 
+
+**Command -empty with -deleat:** The "-empty" option allows you to search for empty files or directories. The "-deleat" option allows you to deleat any file you search for
+
+**Example 1**
+```
+  $ find ./technical -type d -empty
+```
+This command searches for empty directories inside the './technical' directory. The "-type d" command ensures that only directories are considered. The '-empty' option filters out directories that have no files or subdirectories within them. Because there are no empty directories nothing is prinited into the command line.  
+
+**Example 2**
+```
+  find ./technical -type d -empty -delete
+```
+This command will search for empty directories inside the ./technical directory and delete them.
 
 
 
