@@ -1,5 +1,5 @@
 # Lab Report 3: Researching Commands
-## More on Find Commands (Source: ChatGPT for all commands)
+## More on Find Command (Source: ChatGPT for all commands)
 
 **Command -size:** The "-size" option allows you to search for files based on their size 
 
