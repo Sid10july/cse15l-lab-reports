@@ -6,6 +6,8 @@
 
 ```
   $ find ./technical -type f -size -100k
+  ./technical/biomed/1471-2334-2-27.txt
+  ./technical/biomed/1471-2334-2-29.txt
 ```
 
   
