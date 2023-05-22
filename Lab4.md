@@ -1,6 +1,6 @@
 # Lab Report 4: Vim Commands 
 
-**Step 4:** ssh cs15lsp23fb@ieng6.ucsd.edu &lt;Enter&lt; 
+**Step 4:** ssh cs15lsp23fb@ieng6.ucsd.edu &lt;Enter&gt; 
 ![Image](pic1.png)
 
 In this step I logged into my .eng account.
