@@ -6,7 +6,7 @@
 In this step I logged into my .eng account.
   
 **Step 5:** git clone git@github.com:Sid10july/lab7.git &lt;Enter&gt; 
-  ![Image](pic2.png)
+  ![Image](newpic1.png)
 
   
 In this step I cloned the fork of my repository. 
