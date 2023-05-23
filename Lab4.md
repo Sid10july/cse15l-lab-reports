@@ -17,7 +17,7 @@ In this step I cloned the fork of my repository.
   
 In this step I change the directory to lab7 and then ran the tests using bash test.sh to demonstrate that it fails.
   
-**Step 7:** vim ListExamples.java <Enter> <Shift g> <k><k><k><k><k><k> <e> <dw> <i> <2> <esc> <:wq> <Enter>
+**Step 7:** vim ListExamples.java &lt;Enter&gt; &lt;Shift g&gt; &lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt; &lt;e&gt; &lt;dw&gt; &lt;i&gt; &lt;2&gt; &lt;esc&gt; &lt;:wq&gt; &lt;Enter&gt;
   ![Image](pic4.png)
   
   
