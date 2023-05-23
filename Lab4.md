@@ -21,7 +21,7 @@ In this step I change the directory to lab7 and then ran the tests using bash te
   ![Image](pic4.png)
   
   
-In this step I first use vim to enter the ListExamples.java file. Afterwards I use Shift-g to go to the end of the file, then scroll up to index1 using <k> 6 times, use <e> to go to the end of the word index1, <dw> to delete 1, <i> to go to insert mode, <2> to replace the 1 I removed with 2, and finally use <:wq> to save the changes.
+In this step I first use vim to enter the ListExamples.java file. Afterwards I use Shift-g to go to the end of the file, then scroll up to index1 using k 6 times, use e to go to the end of the word index1, dw to delete 1, i to go to insert mode, 2 to replace the 1 I removed, and finally use :wq to save the changes.
 
 
   
