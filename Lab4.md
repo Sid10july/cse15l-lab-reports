@@ -28,6 +28,11 @@ In this step I first use vim to enter the ListExamples.java file. Afterwards I u
 
 In this step I ran the tests again to demonstrate that I have fixed the problem.
 
+**Step9:** Git init &lt;Enter&gt;  Git add . &lt;Enter&gt;   Git commit -m “committing all the files in this directory” &lt;Enter&gt;
+![Image](pic6.png)
+
+In this step I commited and pushed the resulting change to my Ghithub account by first reinitilizing git using Git init, then adding all the files in the current directory using Git add ., and finally committing using Git commit - m "comment".
+
 
 
 
