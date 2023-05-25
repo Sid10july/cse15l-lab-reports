@@ -90,6 +90,8 @@ This command finds all files with the extension '.log' inside the './technical' 
   $ find ./technical -type d -empty
 ```
 This command searches for empty directories inside the './technical' directory. The "-type d" command ensures that only directories are considered. The '-empty' option filters out directories that have no files or subdirectories within them. Because there are no empty directories nothing is prinited into the command line. This command can help a user find out what files he still has to work on or what files he has created unnessarily.
+
+
 **Example 2**
 ```
   find ./technical -type d -empty -delete
