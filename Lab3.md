@@ -1,5 +1,14 @@
 # Lab Report 3: Researching Commands
 ## More on Find Command (Source: ChatGPT for all commands)
+Prompt given to ChatGPT: Show me six interesting command-line options with explinations for what they do
+Response: Certainly! 
+- Option 1: -type - Searches for files or directories based on their type.
+- Option 2: -size - Searches for files based on their size.
+- Option 3: -mtime - Searches for files based on their modification time.
+- Option 4: -exec - Executes a command on the files or directories found.
+- Option 5: -name - Searches for files or directories based on their name patterns
+- Option 6: -empty - Searches for empty files or directories.
+
 
 **Command -size:** The "-size" option allows you to search for files based on their size 
 
