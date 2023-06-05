@@ -11,7 +11,7 @@ In this step I logged into my .ieng account.
   
 In this step I cloned the fork of my repository. 
   
-**Step 6:** `cd lab7 &lt;Enter&gt; Bash test.sh `&lt;Enter&gt;
+**Step 6:** `cd lab7` &lt;Enter&gt; `Bash test.sh `&lt;Enter&gt;
  ![Image](pic3.png)
   
   
