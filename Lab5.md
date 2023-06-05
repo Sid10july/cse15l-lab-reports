@@ -11,3 +11,8 @@ The TAs response:
   
 ![Image](TA.png)
 
+The Resolution: 
+
+  
+  ![Image](worked.png)
+
