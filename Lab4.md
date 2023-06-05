@@ -5,19 +5,19 @@
 
 In this step I logged into my .ieng account.
   
-**Step 5:** `git clone git@github.com:Sid10july/lab7.git &lt;Enter&gt;`
+**Step 5:** `git clone git@github.com:Sid10july/lab7.git` &lt;Enter&gt;
   ![Image](newpic1.png)
 
   
 In this step I cloned the fork of my repository. 
   
-**Step 6:** `cd lab7 &lt;Enter&gt; Bash test.sh &lt;Enter&gt;`
+**Step 6:** `cd lab7 &lt;Enter&gt; Bash test.sh `&lt;Enter&gt;
  ![Image](pic3.png)
   
   
 In this step I change the directory to lab7 and then ran the tests using bash test.sh to demonstrate that it fails.
   
-**Step 7:** `vim ListExamples.java &lt;Enter&gt; &lt;Shift g&gt; &lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt; &lt;e&gt; &lt;dw&gt; &lt;i&gt; &lt;2&gt; &lt;esc&gt; &lt;:wq&gt; &lt;Enter&gt;`
+**Step 7:** `vim ListExamples.java` &lt;Enter&gt; &lt;Shift g&gt; &lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt;&lt;k&gt; &lt;e&gt; &lt;dw&gt; &lt;i&gt; &lt;2&gt; &lt;esc&gt; &lt;:wq&gt; &lt;Enter&gt;
   ![Image](pic4.png)
   
   
