@@ -6,3 +6,8 @@ The Question:
 
 ![Image](part1b.png)
 
+The TAs response: 
+
+  
+![Image](TA.png)
+
