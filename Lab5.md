@@ -27,7 +27,7 @@ Code before:
 
 I used my clone of the Lab 7 repository to write this Lab.The file and directory strcture that was used in this mock debugging scenario can be found at the following link: https://github.com/ucsd-cse15l-s23/lab7. And if it wasn't already evident, to setup this mock scenario I just removed the imports from the ListExamples.java file. The exact command line commands were: 
 `vim ListExamples.java`  &lt;Enter&gt;
- &lt;j&gt; &lt;i&gt;  &lt;2dd&gt;  &lt;esc&gt; &lt;:wq&gt;
+ &lt;j&gt; &lt;i&gt;  &lt;2dd&gt;  &lt;esc&gt; &lt;:wq&gt;. To fix the code I simply had to re-enter the import commands.
 
 
 ## Part 2
